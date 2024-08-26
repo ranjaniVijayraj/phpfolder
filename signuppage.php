@@ -8,6 +8,7 @@
 
 
 <body>
+    <h1>signup page</h1>
     <form action="signupphp.php" method="post" >
         <input type="text" name="name" id="name" required placeholder="name"><br>
         <input type="email" name="email" id="email" required placeholder="email"><br>
